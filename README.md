@@ -2,7 +2,7 @@
 
 A 3D volleyball shooting game in the browser, using webcam motion tracking and 3D physics. Score goals by volleying the ball into the moving targets!
 
-🎮 **Play here: [https://your-username.github.io/3d-volley-shoot/](https://your-username.github.io/3d-volley-shoot/)**
+🎮 **Play here: [https://your-username.github.io/3d-volley-shoot/](https://nobel-tdn.github.io/3D-Volley-Shoot/)**
 
 ## How to Play
 
